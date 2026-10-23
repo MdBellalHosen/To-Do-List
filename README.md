@@ -1,7 +1,5 @@
 # To-Do-List
 
-🔗 **Live site:** [https://mdbellalhosen.github.io/To-Do-List/](https://mdbellalhosen.github.io/To-Do-List/)
-
 🌐 **Live app:** https://mdbellalhosen.github.io/To-Do-List/
 
 This is a simple game.
